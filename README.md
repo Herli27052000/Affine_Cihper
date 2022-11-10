@@ -13,3 +13,4 @@ Mencoba **Encrypt** dan **Decrypt** ***Affine Cihper** dengan plaintext **UPB**
 ![encrypt](img/1.png)
 
 **DECRYPT**
+![decrypt](img/2.png)
